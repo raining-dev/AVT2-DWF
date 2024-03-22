@@ -1,6 +1,6 @@
 # AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies
 
-This repository contains the implementation of AVT2-DWF method proposed in the paper -  
+This repository contains the implementation of AVT2-DWF method proposed in the paper 
 
 Links: [[PDF]]() 
 
