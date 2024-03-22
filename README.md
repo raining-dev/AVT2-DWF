@@ -15,7 +15,6 @@ Links: [[PDF]]()
    ```
    /data/real/{videoname}.mp4  
    /daata/fake/{videoname}.mp4  
-
    ```
 2) Once the videos have been placed at the above mentioned paths, run `python pre-process.py --out_dir train` and `python pre-process.py --out_dir test` for pre-processing the videos.  
   
