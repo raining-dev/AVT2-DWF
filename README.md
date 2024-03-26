@@ -2,7 +2,7 @@
 
 This repository contains the implementation of AVT2-DWF method proposed in the paper 
 
-Links: [[PDF]]() 
+Links: [[PDF]](https://arxiv.org/pdf/2403.14974.pdf) 
 
 ![Network Architecture](https://github.com/raining-dev/AVT2-DWF/blob/main/model_architecture.pdf)
   
